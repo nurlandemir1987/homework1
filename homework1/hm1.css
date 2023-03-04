@@ -1,0 +1,18 @@
+
+
+.table
+{
+    border: 1px solid black;
+    margin: 50px;
+    border-collapse: collapse;
+    border-width: 2px;
+}
+
+td
+{
+    border-bottom: 2px solid rgb(18, 2, 2);
+    border-right: 2px solid rgb(18, 2, 2);;
+    text-align: center;
+    padding: 15px 20px;  
+    width: 25%;
+}
